@@ -8,5 +8,3 @@
 
 * <https://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW>
 * <http://wiki.creativecommons.org.tw/cc-zero-1-0:pre-final>
-
-# 教育部版權頁
